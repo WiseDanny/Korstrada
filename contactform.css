@@ -1,0 +1,65 @@
+ /* Scoped styling for the contact form */
+#contact-form {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 600px;
+    margin: 20px auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  #contact-form h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #contact-form label {
+    display: block;
+    font-family: 'PT Serif', serif;
+    font-size: 1rem;
+    color: #404040;
+    margin-bottom: 8px;
+  }
+  
+  #contact-form input[type="text"],
+  #contact-form input[type="email"],
+  #contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    font-family: 'PT Serif', serif;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+  }
+  
+  #contact-form button {
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #contact-form button:hover {
+    background-color: #0b7dda;
+  }
+  
+  #contact-form button[type="reset"] {
+    background-color: #f44336;
+    margin-left: 10px;
+  }
+  
+  #contact-form button[type="reset"]:hover {
+    background-color: #d32f2f;
+  }
+  

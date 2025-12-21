@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="business.css">
+</head>
+<body>
+
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="about.html">About</a></li>
+  <li><a href="services.html">Services</a></li>
+  <li><a href="contact.html">Contact</a></li>
+</ul>
+
+<h2>Korstrada Enterprises Limited</h2>
+
+<p>Established in 2025. Expanding ever since.</p>
+
+
+<br>
+
+<p>Established May 23, 2025. The firm goal is to empower traders, foster innovation, and deliver exceptional financial performance. We teach financial literacy and financial freedom, Korstrada Enterprises Limited founder Danny Lutz Cassell Jr. He began to learn about financial markets in the year of 2020, and open his first brokerage account in 2021 and started trading that same year. Currently managing mid five figures in assets under management and is approaching the six figures of assets under management. Check out our services page to see what services we offer and our contact page to reach us with any questions.</p>
+
+
+<br>
+
+<center>
+<img src="Korstradalogo.png" alt="Girl in a jacket" width="500" height="600">
+</center>
+<br>
+<div class="footer">
+<p>All rights reserved &#xA9; 2025 Korstrada Enterprises Limited.</p>
+</div>
+</body>
+</html>

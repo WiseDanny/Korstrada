@@ -30,8 +30,8 @@
 <form action="mailto:hiring@korstrada.co.site" method="post" enctype="multipart/form-data">
   
   <!-- Required dropdown -->
-  <label for="cars">Choose a career:</label>
-  <select name="cars" id="cars" required>
+  <label for="careers">Choose a career:</label>
+  <select name="careers" id="careers" required>
     <option value="">--Please choose an option--</option>
     <option value="Quantitative Researcher">Quantitative Researcher</option>
     <option value="Machine Learning Engineer">Machine Learning Engineer</option>
